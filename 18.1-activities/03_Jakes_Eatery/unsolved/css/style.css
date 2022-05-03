@@ -66,12 +66,13 @@ background-image: url("../images/steak.png");
 .text {
     background: rgb(0,0,0,0.7);
     width: 100%;
-    padding: 20px, 40px; 
+    padding: 20px 40px; 
     color: white;
 }
 .text p {
     color: rgb(255,255,255,0.7);
     font-family: Arial, Helvetica, sans-serif;
+
 }
 .text h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -89,8 +90,7 @@ background-image: url("../images/steak.png");
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
   }
-  oration: none;
-}
+
 .ig {
     color: red;
   }
